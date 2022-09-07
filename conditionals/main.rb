@@ -1,6 +1,8 @@
 age = 2
 name = "John"
+
 #> >= < <= != ==
+
 if age > 9 or name == "john"
     puts "Older"
 elsif age < 9
