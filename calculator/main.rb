@@ -33,6 +33,8 @@ elsif operator == "/"
     divide(num1, num2)
 elsif operator == "*"
     multiple(num1, num2)
+else
+    puts "invalid"
 end
 
 
