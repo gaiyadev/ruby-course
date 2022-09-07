@@ -24,7 +24,7 @@ def divide(num1, num2)
       return puts  num1 / num2
 end
 
-
+ 
 if operator == "+"
     add(num1, num1)
 elsif operator == "-"
